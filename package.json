@@ -5,7 +5,7 @@
   "dependencies": {
     "bootstrap": "^3.4.1",
     "bootstrap-fileinput": "^5.0.8",
-    "jquery-ui-dist": "^1.12.1",
+    "jquery-ui-dist": "^1.13.2",
     "parsleyjs": "^2.9.2",
     "select2": "^4.0.12",
     "jquery": "^3.5.0"
